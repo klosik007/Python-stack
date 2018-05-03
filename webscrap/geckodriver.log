@@ -1,0 +1,575 @@
+1514810738953	geckodriver	INFO	geckodriver 0.19.1
+1514810738953	geckodriver	INFO	Listening on 127.0.0.1:49909
+1514810741219	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.9DzUvxNAOBy1"
+1514810742519	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514810748079	Marionette	INFO	Listening on port 49915
+1514810748886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514810748991	Marionette	DEBUG	Register listener.js for window 4294967297
+1514810749058	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514810749604	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514810749604	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1514810750356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1514810750481	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514811221948	geckodriver	INFO	geckodriver 0.19.1
+1514811221948	geckodriver	INFO	Listening on 127.0.0.1:49983
+1514811224073	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.mHH5p9XADVne"
+1514811225081	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514811229114	Marionette	INFO	Listening on port 49989
+1514811229432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514811229547	Marionette	DEBUG	Register listener.js for window 4294967297
+1514811229615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514811229918	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514811229919	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1514811230321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1514811230428	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m/src/chrome/common/ipc_channel_win.cc, line 346
+1514811269634	Marionette	INFO	Listening on port 50032
+1514811270543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514811270643	Marionette	DEBUG	Register listener.js for window 4294967297
+1514811270663	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514811270974	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514811270975	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1514811271364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1514811271482	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+[Child 3316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+1514823592616	geckodriver	INFO	geckodriver 0.19.1
+1514823592632	geckodriver	INFO	Listening on 127.0.0.1:52612
+1514823594788	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.CKfYpcqIvOHI"
+1514823595890	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514823600252	Marionette	INFO	Listening on port 52618
+1514823600678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514823600766	Marionette	DEBUG	Register listener.js for window 4294967297
+1514823600793	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514823601876	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514823601876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514823602889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1514823603125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1514823603182	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ficate errors will be ignored for this session
+1514824118304	Marionette	DEBUG	Register listener.js for window 4294967297
+1514824118338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514824119185	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514824119186	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514824119901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1514824120115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1514824120167	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e errors will be ignored for this session
+1514824216036	Marionette	DEBUG	Register listener.js for window 4294967297
+1514824216181	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514824217134	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514824217135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514824218058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1514824218391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1514824218462	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ate errors will be ignored for this session
+1514824843439	Marionette	DEBUG	Register listener.js for window 4294967297
+1514824843468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514824844362	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514824844363	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514824845035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+1514824845287	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1514824845359	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+[Parent 1852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.onet.pl/"
+1514824873212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1514824874820	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.onet.pl/"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516037135563	geckodriver	INFO	geckodriver 0.19.1
+1516037135577	geckodriver	INFO	Listening on 127.0.0.1:51708
+1516037138918	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.VjM9fY53omjT"
+1516037140308	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516037145898	Marionette	INFO	Listening on port 51717
+1516037146334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516037146427	Marionette	DEBUG	Register listener.js for window 4294967297
+1516037146645	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516037147186	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516037147187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516037148841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.play.pl/"
+1516037152337	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.play.pl/"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516037298204	geckodriver	INFO	geckodriver 0.19.1
+1516037298218	geckodriver	INFO	Listening on 127.0.0.1:51926
+1516037301338	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.og2Xo1QKroNG"
+1516037302404	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516037306851	Marionette	INFO	Listening on port 51934
+1516037307126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516037307239	Marionette	DEBUG	Register listener.js for window 4294967297
+1516037307277	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516037307863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516037307863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516037308604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1516037308683	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1516037854063	geckodriver	INFO	geckodriver 0.19.1
+1516037854073	geckodriver	INFO	Listening on 127.0.0.1:52016
+1516037857214	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.a9DrfnF5Uv01"
+1516037858490	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516037863325	Marionette	INFO	Listening on port 52024
+1516037863685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516037863769	Marionette	DEBUG	Register listener.js for window 4294967297
+1516037863802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516037864864	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516037864864	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516037865539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.python.org/"
+1516037865587	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.python.org/"
+1516482481385	geckodriver	INFO	geckodriver 0.19.1
+1516482481396	geckodriver	INFO	Listening on 127.0.0.1:60585
+1516482484673	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.M1IeMVGy5idR"
+1516482486516	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516482492515	Marionette	INFO	Listening on port 60594
+1516482492682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516482492809	Marionette	DEBUG	Register listener.js for window 4294967297
+1516482492967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516482493518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516482493519	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516482496495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/logowanie?goto=https://logowanie.play.pl:443/opensso/postLogin?RelayState=https%3A%2F%2Flogowanie.play.pl%3A443%2Fopensso%2Fp4-idp2%2FSSOrequest.do%3FAuthn%3Dtrue%26AuthnContext%3Dhttp%253A%252F%252Fwww.projectliberty.org%252Fschemas%252Fauthctx%252Fclasses%252FPassword%26realm%3D%252F%26_liberty_idp%3DP4IDP%26metaAlias%3D%252Fp4-idp2%26RequestID%3D9e2cae7cc538928b99c3ef64d4f64d6b&sso=true&metaAlias=%2Fp4-idp2"
+1516482498772	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/logowanie?goto=https://logowanie.play.pl:443/opensso/postLogin?RelayState=https%3A%2F%2Flogowanie.play.pl%3A443%2Fopensso%2Fp4-idp2%2FSSOrequest.do%3FAuthn%3Dtrue%26AuthnContext%3Dhttp%253A%252F%252Fwww.projectliberty.org%252Fschemas%252Fauthctx%252Fclasses%252FPassword%26realm%3D%252F%26_liberty_idp%3DP4IDP%26metaAlias%3D%252Fp4-idp2%26RequestID%3D9e2cae7cc538928b99c3ef64d4f64d6b&sso=true&metaAlias=%2Fp4-idp2"
+1516482499025	Marionette	DEBUG	Received DOM event "beforeunload" for "https://logowanie.play.pl/opensso/logowanie?goto=https://logowanie.play.pl:443/opensso/postLogin?RelayState=https%3A%2F%2Flogowanie.play.pl%3A443%2Fopensso%2Fp4-idp2%2FSSOrequest.do%3FAuthn%3Dtrue%26AuthnContext%3Dhttp%253A%252F%252Fwww.projectliberty.org%252Fschemas%252Fauthctx%252Fclasses%252FPassword%26realm%3D%252F%26_liberty_idp%3DP4IDP%26metaAlias%3D%252Fp4-idp2%26RequestID%3D9e2cae7cc538928b99c3ef64d4f64d6b&sso=true&metaAlias=%2Fp4-idp2"
+1516482499045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516482499387	Marionette	DEBUG	Received DOM event "pagehide" for "https://logowanie.play.pl/opensso/logowanie?goto=https://logowanie.play.pl:443/opensso/postLogin?RelayState=https%3A%2F%2Flogowanie.play.pl%3A443%2Fopensso%2Fp4-idp2%2FSSOrequest.do%3FAuthn%3Dtrue%26AuthnContext%3Dhttp%253A%252F%252Fwww.projectliberty.org%252Fschemas%252Fauthctx%252Fclasses%252FPassword%26realm%3D%252F%26_liberty_idp%3DP4IDP%26metaAlias%3D%252Fp4-idp2%26RequestID%3D9e2cae7cc538928b99c3ef64d4f64d6b&sso=true&metaAlias=%2Fp4-idp2"
+1516482499397	Marionette	DEBUG	Received DOM event "unload" for "https://logowanie.play.pl/opensso/logowanie?goto=https://logowanie.play.pl:443/opensso/postLogin?RelayState=https%3A%2F%2Flogowanie.play.pl%3A443%2Fopensso%2Fp4-idp2%2FSSOrequest.do%3FAuthn%3Dtrue%26AuthnContext%3Dhttp%253A%252F%252Fwww.projectliberty.org%252Fschemas%252Fauthctx%252Fclasses%252FPassword%26realm%3D%252F%26_liberty_idp%3DP4IDP%26metaAlias%3D%252Fp4-idp2%26RequestID%3D9e2cae7cc538928b99c3ef64d4f64d6b&sso=true&metaAlias=%2Fp4-idp2"
+1516482499415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/postLogin?RelayState=https://logowanie.play.pl:443/opensso/p4-idp2/SSOrequest.do?Authn=true&AuthnContext=http%3A%2F%2Fwww.projectliberty.org%2Fschemas%2Fauthctx%2Fclasses%2FPassword&realm=%2F&_liberty_idp=P4IDP&metaAlias=%2Fp4-idp2&RequestID=9e2cae7cc538928b99c3ef64d4f64d6b"
+1516482499581	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/postLogin?RelayState=https://logowanie.play.pl:443/opensso/p4-idp2/SSOrequest.do?Authn=true&AuthnContext=http%3A%2F%2Fwww.projectliberty.org%2Fschemas%2Fauthctx%2Fclasses%2FPassword&realm=%2F&_liberty_idp=P4IDP&metaAlias=%2Fp4-idp2&RequestID=9e2cae7cc538928b99c3ef64d4f64d6b"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516482580335	Marionette	INFO	Listening on port 60802
+1516482580981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516482581115	Marionette	DEBUG	Register listener.js for window 4294967297
+1516482581153	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516482581424	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516482581425	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516482581435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/p4-idp2/SSOrequest.do?action=sso"
+1516482582304	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/p4-idp2/SSOrequest.do?action=sso"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10232, Chrome_ChildThread] WARNING: pi1516482628951	Marionette	INFO	Listening on port 60911
+1516482630011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516482632273	Marionette	DEBUG	Register listener.js for window 4294967297
+1516482632334	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516482632507	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516482632508	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516482633638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/logowanie"
+1516482635711	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/logowanie"
+1516482635919	Marionette	DEBUG	Received DOM event "beforeunload" for "https://logowanie.play.pl/opensso/logowanie"
+1516482635939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516482636244	Marionette	DEBUG	Received DOM event "pagehide" for "https://logowanie.play.pl/opensso/logowanie"
+1516482636246	Marionette	DEBUG	Received DOM event "unload" for "https://logowanie.play.pl/opensso/logowanie"
+1516482636299	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/console/"
+1516482636308	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/console/"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception..Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+source://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1419: TypeError: this._tabPool is null
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+1516484557172	geckodriver	INFO	geckodriver 0.19.1
+1516484557190	geckodriver	INFO	Listening on 127.0.0.1:61557
+1516484560317	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.5DbgufD83hAh"
+1516484561309	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516484565691	Marionette	INFO	Listening on port 61565
+1516484566058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516484566164	Marionette	DEBUG	Register listener.js for window 4294967297
+1516484566191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516484566404	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516484566404	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516484590076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/logowanie"
+1516484593109	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/logowanie"
+1516484593280	Marionette	DEBUG	Received DOM event "beforeunload" for "https://logowanie.play.pl/opensso/logowanie"
+1516484593513	Marionette	DEBUG	Received DOM event "pagehide" for "https://logowanie.play.pl/opensso/logowanie"
+1516484593517	Marionette	DEBUG	Received DOM event "unload" for "https://logowanie.play.pl/opensso/logowanie"
+1516484593536	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/console/"
+1516484593542	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/console/"
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516484859695	geckodriver	INFO	geckodriver 0.19.1
+1516484859709	geckodriver	INFO	Listening on 127.0.0.1:61697
+1516484862838	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\pklos\\AppData\\Local\\Temp\\rust_mozprofile.3CgMIQE17VkM"
+1516484863895	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516484867987	Marionette	INFO	Listening on port 61705
+1516484868161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516484868261	Marionette	DEBUG	Register listener.js for window 4294967297
+1516484868289	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516484868618	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516484868618	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516484869992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/logowanie"
+1516484871622	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/logowanie"
+1516484871947	Marionette	DEBUG	Received DOM event "beforeunload" for "https://logowanie.play.pl/opensso/logowanie"
+1516484872009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516484872216	Marionette	DEBUG	Received DOM event "pagehide" for "https://logowanie.play.pl/opensso/logowanie"
+1516484872223	Marionette	DEBUG	Received DOM event "unload" for "https://logowanie.play.pl/opensso/logowanie"
+1516484872241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://logowanie.play.pl/opensso/console/"
+1516484872248	Marionette	DEBUG	Received DOM event "pageshow" for "https://logowanie.play.pl/opensso/console/"
+1516484872293	Marionette	DEBUG	Received DOM event "beforeunload" for "https://logowanie.play.pl/opensso/console/"
+1516484872414	Marionette	DEBUG	Received DOM event "pagehide" for "https://logowanie.play.pl/opensso/console/"
+1516484872415	Marionette	DEBUG	Received DOM event "unload" for "https://logowanie.play.pl/opensso/console/"
+1516484872435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://24.play.pl/Play24/"
+1516484872454	Marionette	DEBUG	Received DOM event "pageshow" for "https://24.play.pl/Play24/"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://24.play.pl
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://24.play.pl
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pklos\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
